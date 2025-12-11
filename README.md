@@ -8,7 +8,8 @@ An AI-powered tool that analyzes customer messages by:
 
 All presented in a sleek neon-themed Gradio interface.
 
- [![Watch the video](https://github.com/user-attachments/assets/45489613-23d4-46e0-990c-e51e3ef08177)](https://github.com/batoolarifa/ai-message-analyzer/releases/download/untagged-fae6540abea13cef8042/AI.Task.Arifa.Batool.mp4)
+ [![AI Message Analyzer Demo](https://img.youtube.com/vi/KGnjAWOPVfs/0.jpg)](https://www.youtube.com/watch?v=KGnjAWOPVfs)
+
 ---
 
 ## 🛠 Features
